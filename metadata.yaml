@@ -1,0 +1,29 @@
+_repo: Der-Jager-von-Fall-Hochlandsroman_64414
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Ganghofer, Ludwig
+    alias: Ganghofer, Ludwig Albert
+    birthdate: 1855
+    deathdate: 1920
+    gutenberg_agent_id: '43006'
+    url: http://www.gutenberg.org/2009/agents/43006
+    wikipedia:
+    - https://de.wikipedia.org/wiki/Ludwig_Ganghofer
+    - https://en.wikipedia.org/wiki/Ludwig_Ganghofer
+description: ''
+gutenberg_issued: '2021-01-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '64414'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Mountains -- Fiction'
+- !lcc 'PT'
+- !lcsh 'Bavaria (Germany) -- Fiction'
+- GITenberg
+title: 'Der Jäger von Fall: Hochlandsroman'
+url: http://www.gutenberg.org/ebooks/64414
