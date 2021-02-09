@@ -1,5 +1,8 @@
 _repo: Der-Jager-von-Fall-Hochlandsroman_64414
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 64414-h/images/cover.jpg
 creator:
   author:
     agent_name: Ganghofer, Ludwig
@@ -12,6 +15,8 @@ creator:
     - https://de.wikipedia.org/wiki/Ludwig_Ganghofer
     - https://en.wikipedia.org/wiki/Ludwig_Ganghofer
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/64414#Der-Jager-von-Fall-Hochlandsroman
 gutenberg_issued: '2021-01-29'
 gutenberg_type: Text
 identifiers:
